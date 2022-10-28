@@ -1,3 +1,3 @@
 # AI-ML
 
-##Exploratory Data Analysis performed on Stock Market Data
+## Exploratory Data Analysis performed on Stock Market Data
